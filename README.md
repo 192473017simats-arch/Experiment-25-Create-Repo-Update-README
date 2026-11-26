@@ -1,2 +1,3 @@
-# Experiment 25
-Initial README.
+# Experiment 25: Software Engineering Lab
+
+Updated README.md with project description and pushed to main.
